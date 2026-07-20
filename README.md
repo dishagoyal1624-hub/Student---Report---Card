@@ -12,3 +12,5 @@ Concepts Used:
 - Variables
 - Conditional Statements
 - Arithmetic Operators
+## Output
+![Student Report Card](student_report_card.png)
